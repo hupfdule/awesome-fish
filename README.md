@@ -43,6 +43,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [jorgebucaran/**fish-getopts**](https://github.com/jorgebucaran/fish-getopts) - CLI options parser alternative to the [`argparse`](https://fishshell.com/docs/current/commands.html#argparse) builtin
 - [jorgebucaran/**fish-spark**](https://github.com/jorgebucaran/fish-spark) - Pure-fish sparkline generator
 - [rodrigobdz/**fish-apple-touchbar**](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your Touch Bar in iTerm2
+- [jbonjean/**re-search**](https://github.com/jbonjean/re-search) - More readline (or bash) like incremental history search
 
 ### Environment
 
